@@ -8,7 +8,7 @@ Materials for my final project, "Who Talks About What? Classifying Political Att
 
 ## Tutorial 
 
-This README file provides an overview of the materials for my final project. The R codes used in the project can be found under the folder **codes**. The data I scraped and used to build the models are under the folder **data**. All the images in the report are available at the folder **outputs**.
+This README file provides an overview of the materials for my final project. The R and Python codes used in the project can be found under the folder **codes**. The data I scraped and used to build the models are under the folder **data**. All the images in the report are available at the folder **outputs**.
 
 
 
@@ -50,4 +50,5 @@ The final project report is located in the report folder:
 - `report.docx` — Word version of the report 
 
 The report summarizes the motivation, data, methods, results and discussions of the project.
+
 
