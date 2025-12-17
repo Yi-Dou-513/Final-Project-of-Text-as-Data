@@ -8,7 +8,7 @@ Materials for my final project, "Who Talks About What? Classifying Political Att
 
 ## Tutorial 
 
-This README file provides an overview of the materials for my final project. The R codes used in the project can be found under the folder **Codes**. The data I scraped and used to build the models are under the folder **data**. All the images in the report are available at the folder **output**.
+This README file provides an overview of the materials for my final project. The R codes used in the project can be found under the folder **codes**. The data I scraped and used to build the models are under the folder **data**. All the images in the report are available at the folder **outputs**.
 
 
 
@@ -31,11 +31,6 @@ This README file provides an overview of the materials for my final project. The
 
 - `scrape_tweets.py`: scrape data from X. These codes are mainly written by AI.
 
-- `Replication_06Figure5.r`: replicates Figure 5 of the paper, where the authors show the correlation between issue-level responsiveness and issue salience.
-
-- `Replication_08Figure6.r`: replicates Figure 6 of the paper, where the authors show the ability of the the different groups under study to lead the agenda of the media, and viceversa.
- 
-
 ## Data
 
 - `2024_tweets_raw.csv`: The data I scraped from X. It's used for building the topic model.
@@ -55,3 +50,4 @@ The final project report is located in the report folder:
 - `report.docx` — Word version of the report 
 
 The report summarizes the motivation, data, methods, results and discussions of the project.
+
